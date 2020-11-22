@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO8859-1" ?>
+<webpagedevelop>
+	<travel>
+		<name>Swetha</name>
+		<place>London</place>
+	</travel>
+	<travel>
+		<name>Varun</name>
+		<place>Pisa</place>
+	</travel>
+	<travel>
+		<name>virat</name>
+		<place>Paris</place>
+	</travel>
+	<travel>
+		<name>Priyank</name>
+		<place>New York</place>
+	</travel>
+	<travel>
+		<name>Moksha</name>
+		<place>Austrelia</place>
+	</travel>
+</webpagedevelop>
+
